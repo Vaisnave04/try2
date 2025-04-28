@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlops_lab/Ex_8/mlruns/0/a2b40c5e18db4ec78c90601507655b53/artifacts
+end_time: 1745838326948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2b40c5e18db4ec78c90601507655b53
+run_name: invincible-lamb-74
+run_uuid: a2b40c5e18db4ec78c90601507655b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745838262082
+status: 3
+tags: []
+user_id: Dell

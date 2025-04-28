@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlops_lab/Ex_8/mlruns/0/d90510fb8c0747a8aef3fc24a4ea3516/artifacts
+end_time: 1743407177409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d90510fb8c0747a8aef3fc24a4ea3516
+run_name: fun-kit-573
+run_uuid: d90510fb8c0747a8aef3fc24a4ea3516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743407052254
+status: 3
+tags: []
+user_id: Dell
