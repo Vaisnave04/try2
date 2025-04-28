@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlops_lab/Ex_8/mlruns/0/2f227b1461c645b7b6b04a67aa001664/artifacts
+end_time: 1745836909639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f227b1461c645b7b6b04a67aa001664
+run_name: bold-shoat-389
+run_uuid: 2f227b1461c645b7b6b04a67aa001664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745836894449
+status: 3
+tags: []
+user_id: Dell
